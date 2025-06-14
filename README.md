@@ -1,5 +1,5 @@
 ## Basic 
-- for the basic task created a s3 bucket in ap-south-1 region with name "minfy-training-s3-1321" \
+- for the basic task created a s3 bucket in ap-south-1 region with name "minfy-training-akhilesh-s3-1321" \
 and after that added that bucket itself as the remote backend for storing state file 
 ![Screenshot (23)](https://github.com/user-attachments/assets/d2f9e41e-10ed-4771-954e-dfbfb497380f)
 
